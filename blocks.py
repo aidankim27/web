@@ -1,4 +1,4 @@
-mport webbrowser as wb
+import webbrowser as wb
 import smtplib
 from schooltldr.models import User
 from datetime import datetime
